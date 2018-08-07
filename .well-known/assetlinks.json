@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.electronics.lib.imagelibrary",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["42:34:9B:BB:8A:90:81:62:67:88:28:87:53:BA:01:D7:7C:F8:54:84:78:39:1C:57:28:E5:8E:5E:5C:51:5E:B4"]
   }
 }]
